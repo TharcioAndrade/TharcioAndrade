@@ -1,9 +1,5 @@
 ### Olá eu sou Tharcio Andrade 👋
 
-**TharcioAndrade/TharcioAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 Estudando: HTML, CSS e JavaScript
 
 <div align="center">
@@ -15,7 +11,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="ito-junji" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/951837645772960535/607C139D48E34FCEE59C5DE1CA94E1E213524B8D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img align="right" alt="ito-junji" height="150" style="border-radius:50px; padding-bottom: 50px;" src="https://steamuserimages-a.akamaihd.net/ugc/951837645772960535/607C139D48E34FCEE59C5DE1CA94E1E213524B8D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
   
   ##
