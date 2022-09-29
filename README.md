@@ -1,6 +1,7 @@
 ### Olá eu sou Tharcio Andrade 👋
 
 - 🌱 Estudando: HTML, CSS e JavaScript
+- 🤖 iniciando estudos em: banco de dados e PHP
 
 <div align="center">
   <a href="https://github.com/TharcioAndrade">
